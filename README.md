@@ -1,18 +1,9 @@
 # Computer Vision
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![pandas](https://img.shields.io/badge/pandas-2.2%2B-orange)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6%2B-yellowgreen)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![license](https://img.shields.io/badge/license-MIT-lightgrey.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 
 ## Requirements
-- Python
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
+ultralytics
 
 ## License
 ```
